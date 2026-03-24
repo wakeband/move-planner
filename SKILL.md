@@ -1,6 +1,10 @@
 ---
 name: move-planner
+version: 1.0.0
 description: Plan and manage every aspect of a move: timelines, packing, movers, utilities, address changes, school enrollment, and light financial tracking. Smart templates for buying, selling, renting, and relocating. Built-in address change checklist. Use when anyone mentions moving, packing, new house, closing, movers, or changing addresses.
+metadata:
+  openclaw:
+    emoji: 📦
 ---
 
 # Move Planner
